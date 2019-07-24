@@ -7,3 +7,10 @@ console/main-local.php
 console/params-local.php
 nbproject/
 frontend/web/.htaccess
+
+.bowerrc
+.well-known/
+Vagrantfile
+vagrant/
+yii_test
+yii_test.bat
