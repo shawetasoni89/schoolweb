@@ -1,0 +1,9 @@
+frontend/web/index.php
+vendor/
+/nbproject/private/
+
+composer.lock
+console/main-local.php
+console/params-local.php
+nbproject/
+frontend/web/.htaccess
